@@ -4,14 +4,14 @@
 A New Flutter project for human computer interaction course.
 from section B.
 
-## Group 4.
+## Group 5.
 ## Getting Started
 
 Habit Heatmap is a Flutter-based productivity application designed to help users build and maintain positive daily habits through a visual, engaging tracking system. Instead of traditional checklists, the app uses a heatmap-style calendar view to represent consistency over time, similar to contribution graphs used in developer platforms.
 
 Each habit is displayed as a grid of days, where completed days are highlighted with color intensity. This visual feedback encourages consistency, making habit tracking more intuitive and motivating.
 
-## Group 4.
+## Group 5.
 - No.	ID	        Full name
 1.	Ets0632/15	Hanif 	 Siraj
 2.	Ets0363/15	Dagmawit Habtamu
